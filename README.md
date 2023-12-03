@@ -1,5 +1,5 @@
 # Data Analytics Bootcamp
-Bootcamp yang didakan oleh Kominfo berkerjasama dengan Kuncie berlangsung pada bulan Juli sampai September 2023. Kegitaan ini bertemakan Women in Tech: Data Analytics. 
+Bootcamp yang didakan oleh Kominfo berkerjasama dengan Kuncie berlangsung pada bulan Juli sampai September 2023. Kegiatan ini bertemakan Women in Tech: Data Analytics. 
 
 # Submission
 Submission yang diberikan terdapat 3 tugas:
